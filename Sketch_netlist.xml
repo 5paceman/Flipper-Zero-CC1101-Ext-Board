@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<netlist sketch="Sketch.fzz" date="Sun May 21 19:07:59 2023">
+ <net>
+  <connector name="1" id="connector1">
+   <part label="10uF Decoupling Capacitor" title="Ceramic Capacitor" id="854128060"/>
+  </connector>
+  <connector name="pin8" id="connector7">
+   <part label="8 Pin R-Header" title="Generic male header - 8 pins" id="854160850"/>
+  </connector>
+  <connector name="anode" id="connector1">
+   <part label="3.6v Zener Diode" title="Zener Diode" id="854130660"/>
+  </connector>
+  <connector name="1" id="connector1">
+   <part label="100nF Decoupling Capacitor" title="Ceramic Capacitor" id="854131930"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part label="CC1101 2, 1" title="Generic female header - 2 pins" id="854122920"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin3" id="connector2">
+   <part label="10 Pin R-Header" title="Generic male header - 10 pins" id="854160530"/>
+  </connector>
+  <connector name="Pin 1" id="connector1">
+   <part label="68 Ohm Resistor" title="68Ω Resistor" id="854148500"/>
+  </connector>
+  <connector name="GND" id="connector1">
+   <part label="3.3V Voltage Regulator" title="Voltage Regulator - 3.3V" id="854125320"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin6" id="connector5">
+   <part label="8 Pin R-Header" title="Generic male header - 8 pins" id="854160850"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part label="CC1101 3, 4" title="Generic female header - 2 pins" id="854122890"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin4" id="connector3">
+   <part label="8 Pin R-Header" title="Generic male header - 8 pins" id="854160850"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part label="CC1101 3, 4" title="Generic female header - 2 pins" id="854122890"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin5" id="connector4">
+   <part label="8 Pin R-Header" title="Generic male header - 8 pins" id="854160850"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part label="CC1101 6,5" title="Generic female header - 2 pins" id="854122860"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin2" id="connector1">
+   <part label="8 Pin R-Header" title="Generic male header - 8 pins" id="854160850"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part label="CC1101 6,5" title="Generic female header - 2 pins" id="854122860"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin3" id="connector2">
+   <part label="8 Pin R-Header" title="Generic male header - 8 pins" id="854160850"/>
+  </connector>
+  <connector name="pin2" id="connector1">
+   <part label="CC1101 8, 7" title="Generic female header - 2 pins" id="854122830"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="input voltage" id="connector0">
+   <part label="3.3V Voltage Regulator" title="Voltage Regulator - 3.3V" id="854125320"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part label="10 Pin R-Header" title="Generic male header - 10 pins" id="854160530"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="cathode" id="connector0">
+   <part label="LED1" title="White (4500K) LED" id="854147050"/>
+  </connector>
+  <connector name="Pin 0" id="connector0">
+   <part label="68 Ohm Resistor" title="68Ω Resistor" id="854148500"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="anode" id="connector1">
+   <part label="LED1" title="White (4500K) LED" id="854147050"/>
+  </connector>
+  <connector name="output voltage" id="connector2">
+   <part label="3.3V Voltage Regulator" title="Voltage Regulator - 3.3V" id="854125320"/>
+  </connector>
+  <connector name="0" id="connector0">
+   <part label="100nF Decoupling Capacitor" title="Ceramic Capacitor" id="854131930"/>
+  </connector>
+  <connector name="pin1" id="connector0">
+   <part label="CC1101 2, 1" title="Generic female header - 2 pins" id="854122920"/>
+  </connector>
+  <connector name="0" id="connector0">
+   <part label="10uF Decoupling Capacitor" title="Ceramic Capacitor" id="854128060"/>
+  </connector>
+  <connector name="cathode" id="connector0">
+   <part label="3.6v Zener Diode" title="Zener Diode" id="854130660"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin1" id="connector0">
+   <part label="8 Pin R-Header" title="Generic male header - 8 pins" id="854160850"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin7" id="connector6">
+   <part label="8 Pin R-Header" title="Generic male header - 8 pins" id="854160850"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin2" id="connector1">
+   <part label="10 Pin R-Header" title="Generic male header - 10 pins" id="854160530"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin5" id="connector4">
+   <part label="10 Pin R-Header" title="Generic male header - 10 pins" id="854160530"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin10" id="connector9">
+   <part label="10 Pin R-Header" title="Generic male header - 10 pins" id="854160530"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin6" id="connector5">
+   <part label="10 Pin R-Header" title="Generic male header - 10 pins" id="854160530"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin7" id="connector6">
+   <part label="10 Pin R-Header" title="Generic male header - 10 pins" id="854160530"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin4" id="connector3">
+   <part label="10 Pin R-Header" title="Generic male header - 10 pins" id="854160530"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin9" id="connector8">
+   <part label="10 Pin R-Header" title="Generic male header - 10 pins" id="854160530"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin8" id="connector7">
+   <part label="10 Pin R-Header" title="Generic male header - 10 pins" id="854160530"/>
+  </connector>
+ </net>
+ <net>
+  <connector name="pin1" id="connector0">
+   <part label="CC1101 8, 7" title="Generic female header - 2 pins" id="854122830"/>
+  </connector>
+ </net>
+</netlist>
