@@ -1,0 +1,1 @@
+This is a simple design for a protoboard to connect to a Flipper Zero to add an external CC1101 module with a better antenna. 
